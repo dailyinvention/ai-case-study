@@ -7,7 +7,7 @@
 * **Who are the founders of the company?:**
     * **Github** - Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon<sup>[1](#wikipedia-github)</sup>
     * **OpenAI** - Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba<sup>[2](#wikipedia-openai)</sup>
-*	**How did the idea for the company (or project) come about?:** The idea for GitHub Copilot originated from the need to enhance developer productivity and reduce the cognitive load of writing code.<sup>[3](#github-copilot-research)</sup>  GitHub and OpenAI collaborated to create a tool using the power of OpenAI's artificial intelligence models and Github's vast repository of data in which to train the AI on.
+*	**How did the idea for the company (or project) come about?:** The idea for GitHub Copilot originated from the need to enhance developer productivity and reduce the cognitive load of writing code.<sup>[3](#github-copilot-research)</sup>  GitHub and OpenAI collaborated to create a tool using the power of OpenAI's artificial intelligence models and Github's vast repository of data in which to train the AI.
 * **How is the company funded? How much funding have they received?:**
     * **Github** - 
     * **OpenAI** -
