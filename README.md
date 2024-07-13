@@ -2,9 +2,9 @@
 
 ## Overview and Origin
 
-* Name of company:
-* When was the company incorporated?:
-* Who are the founders of the company?: 
+* Name of company: GitHub (in conjunction with OpenAI)
+* When was the company incorporated?: GitHub was incorporated in 2008<sup>[1](#wikipedia-github)</sup>, OpenAI 2015<sup>[2](#wikipedia-openai)</sup>
+* Who are the founders of the company?: Github - 
 *	How did the idea for the company (or project) come about?: 
 * How is the company funded? How much funding have they received?:
 
@@ -35,3 +35,6 @@
 * Why are these technologies appropriate for your solution?: 
 
 # References
+* <a name="wikipedia-github">1</a>: GitHub. (2024, July 9). In *Wikipedia*<br /> [https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446](https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446)
+* <a name="wikipedia-openai">2</a>: OpenAI. (2024, July 13). In *Wikipedia*<br />
+[https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676](https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676)
