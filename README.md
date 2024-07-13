@@ -8,6 +8,8 @@
   * **Github** - Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon<sup>[1](#wikipedia-github)</sup>
   * **OpenAI** - Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba<sup>[2](#wikipedia-openai)</sup>
 *	How did the idea for the company (or project) come about?: 
+  * **Github** - 
+  * **OpenAI** - 
 * How is the company funded? How much funding have they received?:
 
 ## Business Activities
