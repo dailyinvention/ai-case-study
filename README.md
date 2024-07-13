@@ -2,15 +2,13 @@
 
 ## Overview and Origin
 
-* Name of company: **GitHub** (in conjunction with **OpenAI**)
-* When was the company incorporated?: GitHub was incorporated in 2008<sup>[1](#wikipedia-github)</sup>, OpenAI 2015<sup>[2](#wikipedia-openai)</sup>
-* Who are the founders of the company?:
+* **Name of company:** GitHub (in conjunction with OpenAI)
+* **When was the company incorporated?:** GitHub was incorporated in 2008<sup>[1](#wikipedia-github)</sup>, OpenAI 2015<sup>[2](#wikipedia-openai)</sup>
+* **Who are the founders of the company?:**
     * **Github** - Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon<sup>[1](#wikipedia-github)</sup>
     * **OpenAI** - Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba<sup>[2](#wikipedia-openai)</sup>
-*	How did the idea for the company (or project) come about?:
-    * **Github** -
-    * **OpenAI** - 
-* How is the company funded? How much funding have they received?:
+*	**How did the idea for the company (or project) come about?:** The idea for GitHub Copilot originated from the need to enhance developer productivity and reduce the cognitive load of writing code.<sup>[3](#github-copilot-research)</sup>  GitHub and OpenAI collaborated to create a tool using the power of OpenAI's artificial intelligence models and Github's vast repository of data in which to train the AI on.
+* **How is the company funded? How much funding have they received?:**
     * **Github** - 
     * **OpenAI** -
 
@@ -45,3 +43,5 @@
 * <a name="wikipedia-github">1</a>: GitHub. (2024, July 9). In *Wikipedia*<br /> [https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446](https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446)
 * <a name="wikipedia-openai">2</a>: OpenAI. (2024, July 13). In *Wikipedia*<br />
 [https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676](https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676)
+* <a name="github-copilot-research">3</a>: Kalliamvakou, E. (2022, September 7). *Research: quantifying GitHub Copilot’s impact on developer productivity and happiness*<br />
+[https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
