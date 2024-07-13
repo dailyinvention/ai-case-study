@@ -4,7 +4,8 @@
 
 * Name of company: GitHub (in conjunction with OpenAI)
 * When was the company incorporated?: GitHub was incorporated in 2008<sup>[1](#wikipedia-github)</sup>, OpenAI 2015<sup>[2](#wikipedia-openai)</sup>
-* Who are the founders of the company?: Github - 
+* Who are the founders of the company?:<br />**Github** - Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon<sup>[1](#wikipedia-github)</sup><br />
+**OpenAI** - Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba<sup>[2](#wikipedia-openai)</sup>
 *	How did the idea for the company (or project) come about?: 
 * How is the company funded? How much funding have they received?:
 
