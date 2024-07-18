@@ -10,7 +10,9 @@
 *	**How did the idea for the company (or project) come about?:** The idea for GitHub Copilot originated from the need to enhance developer productivity and reduce the cognitive load of writing code.<sup>[3](#github-copilot-research)</sup>  GitHub and OpenAI collaborated to create a tool using the power of OpenAI's artificial intelligence models and Github's vast repository of data in which to train the AI.
 * **How is the company funded? How much funding have they received?:**
     * **Github** - GitHub was acquired by Microsoft in 2018 for $7.5 billion.  It makes money from it's paid Team and Enterprise accounts[4](#github-pricing).  It was a startup that received venture capital through Andreessen Horowitz, Sequoia Capital,Thrive Capital, IVP (Institutional Venture Partners) and other venture capital funds[1](#wikipedia-github).
-    * **OpenAI** -
+    * **OpenAI** - OpenAI, has received significant funding, including $1 billion from Microsoft<sup>[2](#wikipedia-openai)</sup>.
+        >"The majority of the company’s revenue comes from licensing fees for its AI models and products. It prices access to its language models and ChatGPT based on the use of tokens, which provide access to a specific number of generated words."<sup>[5](#techo-openai-pricing)</sup>
+    
 
 
 ## Business Activities
@@ -41,9 +43,15 @@
 
 # References
 * <a name="wikipedia-github">1</a>: GitHub. (2024, July 9). In *Wikipedia*<br /> [https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446](https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1233573446)
+
 * <a name="wikipedia-openai">2</a>: OpenAI. (2024, July 13). In *Wikipedia*<br />
 [https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676](https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=1234208676)
+
 * <a name="github-copilot-research">3</a>: Kalliamvakou, E. (2022, September 7). *Research: quantifying GitHub Copilot’s impact on developer productivity and happiness*<br />
 [https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+
 * <a name="github-pricing">4</a>: Github. (2024, 7 16). *Pricing - Plans for Every Developer*<br />
-[https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+[https://github.com/pricing](https://github.com/pricing)
+
+* <a name="#techo-openai-pricing">5</a>: Willing, N. (2024, 7 16). *Techopedia: How Does OpenAI Make Money? Revenue Model Explained*<br />
+[https://www.techopedia.com/how-does-openai-make-money](https://www.techopedia.com/how-does-openai-make-money)
